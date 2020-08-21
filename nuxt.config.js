@@ -1,4 +1,13 @@
 export default {
+  generate: {
+    routes: [
+      'post/56254033-c9b8-4ae8-9dd7-db4c2c7da498',
+      'post/a6a1d3be-16c2-4d99-94db-2d90c6ebbeb9',
+      'post/6653b24b-874a-4ede-8272-3556af07690d',
+      'post/ceef7b34-93e5-40ec-8eee-23063d4455a4',
+      'post/167e90fe-0292-4b72-902e-b385d6170119'
+    ]
+  },
   /*
    ** Nuxt rendering mode
    ** See https://nuxtjs.org/api/configuration-mode
