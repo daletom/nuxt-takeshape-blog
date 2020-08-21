@@ -1,0 +1,6 @@
+query getPost($id: ID!) {
+  getPost(_id: $id) {
+    title
+    deck
+  }
+}

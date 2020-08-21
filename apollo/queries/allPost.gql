@@ -1,0 +1,11 @@
+{
+  getPostList {
+    items {
+     _id
+		  title
+      author {
+        name
+      }
+    }
+  }
+}
