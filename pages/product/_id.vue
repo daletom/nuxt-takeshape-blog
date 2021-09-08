@@ -10,7 +10,7 @@
         <ix-img
         :src="getProduct.image.sourceUrl"
         sizes="(min-width: 799px) 799px, 100vw"
-        :imgixParams="{fit:'fill', fill:'solid', fillcolor:'fff', auto:'format', ch:'width,dpr'}"
+        :imgixParams="{auto:'format', ch:'width,dpr'}"
         :alt="getProduct.name"
         loading="lazy"
         class="mx-auto crop border rounded-lg"
@@ -18,7 +18,7 @@
       </div>
     <div class="w-full p-5 flex flex-col justify-between">
       <div>
-        <h4 class="mt-1 font-semibold text-lg leading-tight truncate text-gray-700">
+        <h4 class="mt-1 font-semibold text-2xl leading-tight truncate text-gray-700">
           {{ getProduct.name }}
         </h4>
         <div class="mt-2 text-gray-600">
