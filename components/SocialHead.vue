@@ -39,7 +39,7 @@ export default {
             {
             hid: 'twitter:image',
             name: 'twitter:image',
-            content: this.image + "?w=450&ar=1:1&fit=crop&crop=faces,edges&blend-size=inherit&blend-mode=multiply&blend=https://demos.imgix.net/dark-ellipse-gradient.ai?fm=png%20w=450&txt-align=middle,center&txt-size=72&mark64=aHR0cHM6Ly90b20uaW1naXgubmV0L2tyZW5uaWNfcHJvZmlsZS5wbmc_dz0yMDAmaD0yMDAmZml0PWNyb3AmY3JvcD1mYWNlcw&txt-fit=max&txt-pad=20&txt-color=white&txt=" + this.title
+            content: this.image + "?w=450&ar=1:1&fit=crop&crop=faces,edges&blend-size=inherit&blend-mode=multiply&blend=https://demos.imgix.net/dark-ellipse-gradient.ai?fm=png%20w=450&txt-align=middle,center&txt-size=72&mark64=aHR0cHM6Ly90b20uaW1naXgubmV0L2tyZW5uaWNfcHJvZmlsZS5wbmc_dz03NSZoPTc1JmZpdD1jcm9wJmNyb3A9ZmFjZXM&txt-fit=max&txt-pad=20&txt-color=white&txt=" + this.title
             },
             {
             hid: 'twitter:image:alt',
