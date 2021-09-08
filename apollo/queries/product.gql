@@ -1,0 +1,23 @@
+query getProduct($id: ID!) {
+  getProduct(_id: $id) {
+    name
+    slug
+    _id
+    description
+    image {
+      sourceUrl
+    }
+    soldOut
+    priceData {
+      inCents
+    }
+    sizes {
+      name
+    }
+    colors {
+      name
+    }
+    soldOut
+    searchSummary
+  }
+}

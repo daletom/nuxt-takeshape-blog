@@ -1,0 +1,18 @@
+{
+  getProductList {
+    items {
+      name
+      slug
+      _id
+      description
+      image {
+        sourceUrl
+      }
+      priceData {
+        inCents
+      }
+      soldOut
+      searchSummary
+    }
+  }
+}

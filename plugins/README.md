@@ -1,7 +1,13 @@
-# PLUGINS
+# tom-template
+This is a working template for a project with Jaden from Takeshape. It is set up with Nuxt, Takeshape, imgix, Tailwind, Stripe, Apollo, & Vercel.  More info to come..
 
-**This directory is not required, you can delete it if you don't want to use it.**
+## Build Setup
 
-This directory contains Javascript plugins that you want to run before mounting the root Vue.js application.
+```bash
+# install dependencies
+$ npm install
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/plugins).
+# serve with hot reload at localhost:3000
+$ npm run dev
+
+```

@@ -10,8 +10,10 @@
   },
   "dependencies": {
     "@nuxtjs/apollo": "^4.0.1-rc.3",
+    "@nuxtjs/tailwindcss": "^4.2.1",
     "axios": "^0.20.0",
-    "nuxt": "^2.14.0"
+    "nuxt": "^2.14.0",
+    "vue-imgix": "^2.9.0"
   },
   "devDependencies": {}
 }
